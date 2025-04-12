@@ -1,0 +1,12 @@
+.modal-body {
+    text-align: center;
+  }
+  
+  .modal-body img {
+    max-width: 100%;
+    max-height: 80vh;
+    object-fit: contain;
+    width: auto;
+    height: auto;
+    display: inline-block;
+  }
